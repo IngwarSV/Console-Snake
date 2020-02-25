@@ -1,6 +1,7 @@
 #ifndef SPECIFICATIONS_H
 #define SPECIFICATIONS_H
 
+
 const int WIDTH = 40;
 const int HEIGHT = 20;
 
